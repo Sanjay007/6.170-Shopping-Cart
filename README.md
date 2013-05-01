@@ -1,5 +1,8 @@
-Project 2: Shopping Cart
+
+6.170-Shopping-Cart
 ========================
+
+A shopping cart implemented with Rails for 6.170, Software Studio (Spring 2013)
 
 ###Heroku URL
 
@@ -29,3 +32,7 @@ in this directory.
 
 Additional deliverables, such as the problem-analysis and the design-analysis, should
 be saved as PDF files in the directory called "deliverables"
+=======
+
+
+
